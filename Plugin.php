@@ -25,7 +25,7 @@ class Plugin extends Base
 
     public function getPluginDescription()
     {
-        return t('This plugin simply adds the subtasks list in the tasks list section of the dashboard.');
+        return t('This plugin simply adds the subtasks list in the tasks list section of the dashboard. Also this plugin hides done subtasks from the lists.');
     }
 
     public function getPluginAuthor()
@@ -35,7 +35,7 @@ class Plugin extends Base
 
     public function getPluginVersion()
     {
-        return '0.1.0';
+        return '0.1.1';
     }
 
     public function getCompatibleVersion()

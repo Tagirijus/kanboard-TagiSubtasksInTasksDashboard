@@ -4,8 +4,8 @@
 
 With this little plugin I wanted to have _subtasks_ shown in the _tasks dashboard overview_ as well. Also it hides subtasks from the list, if they are done.
 
-**ATTENTION:**
-At this moment only the latter one _(hide done subtasks in list)_ does work. Lising the subtasks in the tasks view of the dashboard still is WIP here!
+**!!! ATTENTION !!!**
+**!!! At this moment only the latter one _(hide done subtasks in list)_ does work. Listing the subtasks in the tasks view of the dashboard still is WIP here !!!!**
 
 
 Compatibility
