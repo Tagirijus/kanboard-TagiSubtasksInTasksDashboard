@@ -1,35 +1,17 @@
-# `Plugin Name`
+# Tagi Subtasks In Tasks Dashboard
 
 #### _Plugin for [Kanboard](https://github.com/fguillot/kanboard "Kanboard - Kanban Project Management Software")_
 
-`Brief intro`
+With this little plugin I wanted to have _subtasks_ shown in the _tasks dashboard overview_ as well. Also it hides subtasks from the list, if they are done.
 
-
-Features
--------------
-
-- `main features list`
-- `main features list`
-
-
-Screenshots
-----------
-
-**title**  
-
-![Screenshot Name](../master/Screenshots/screenshot-name.png "Read Screenshot Name")
-
-
-Usage
--------------
-
-Go to `Settings` &#10562;
+**ATTENTION:**
+At this moment only the latter one _(hide done subtasks in list)_ does work. Lising the subtasks in the tasks view of the dashboard still is WIP here!
 
 
 Compatibility
 -------------
 
-- Requires [Kanboard](https://github.com/fguillot/kanboard "Kanboard - Kanban Project Management Software") ≥`1.2.20`
+- Requires [Kanboard](https://github.com/fguillot/kanboard "Kanboard - Kanban Project Management Software") ≥`1.2.26`
 
 #### Other Plugins & Action Plugins
 - _No known issues_
@@ -46,14 +28,6 @@ Read the full [**Changelog**](../master/changelog.md "See changes")
 
 Installation
 ------------
-
-- **Install via the [Kanboard](https://github.com/fguillot/kanboard "Kanboard - Kanban Project Management Software") Plugin Directory**
-  - _Go to:_
-    - Kanboard: `Plugins` &#10562; `Plugin Directory`
-  - _or with [PluginManager](https://github.com/aljawaid/PluginManager) installed:_
-    - Kanboard: `Settings` &#10562; `Plugins` &#10562; `Plugin Directory`
-
-**_or_**
 
 - **Install via the [Releases](../master/Releases/ "A copy of each release is saved in the folder") folder**
   - A copy of each release is saved in the `/Releases` folder of the repository
@@ -73,16 +47,10 @@ _Note: The `/plugins` folder is case-sensitive._
   - `git clone` (_or ftp upload_) and extract the `.zip` file into this folder: `.\plugins\` (must be exact case)
 
 
-Translations
-------------
-
-- _Contributors welcome_
-- _Starter template available_
-
 Authors & Contributors
 ----------------------
 
-- [@](https://github.com/url) - Author
+- [@](https://github.com/tagirijus) - Author
 - _Contributors welcome_
 
 
